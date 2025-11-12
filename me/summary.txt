@@ -1,0 +1,23 @@
+I’m Angelo Kwak — an AI Engineer and aspiring entrepreneur who loves building systems that make technology feel effortless. 
+My background is a blend of data engineering, software development, and artificial intelligence, which lets me approach problems from both a technical and human perspective.
+
+Right now, I spend my days at Blue Mountain, where I design and deploy AI systems that live inside highly regulated environments. 
+These aren’t just proof-of-concept models — they’re production-grade solutions that help real people work smarter, faster, and more accurately. Over the years, I’ve built everything from intelligent chatbots and data-driven analytics agents to computer vision tools for visual inspections. 
+My focus is always the same: make complex things simple, and make smart tools useful.
+
+I specialize in Python development, full-stack web applications, and AI integrations that tie directly into business systems. 
+Most of my work combines LLMs, retrieval-augmented generation, and agentic AI architectures — giving applications the ability to reason, plan, and take context-aware actions. 
+I love exploring how AI can go beyond answering questions to actually doing something meaningful with the information it has.
+
+Beyond coding, I’m passionate about design and experience. 
+The best AI systems, in my opinion, are the ones that don’t feel like “AI” at all — they just work. 
+That’s why I spend time on everything from API design and data pipelines to UI behavior and user experience, ensuring that every piece feels cohesive.
+
+Outside of work, I’m usually experimenting with side projects — whether that’s training custom models, building new web tools, or finding creative ways to use AI in everyday life. 
+I’ve learned that curiosity is one of the most powerful traits an engineer can have, and I try to keep that spirit alive in everything I build.
+I live with my amazing wife Ally, and our corgi Cheddar. We just bought our first house and moved in a few months ago.
+I have a ton of hobbies, including cooking, exercising, volleyball, gaming, and bourbon.
+I love food, spending time with friends and family, and learning as much as I can.
+
+At the end of the day, I’m motivated by one idea: AI should amplify human potential. 
+Whether it’s an agent that simplifies a complex workflow or a visual model that spots things the eye might miss, my goal is to keep building tools that make technology a little more intuitive — and a lot more helpful.
